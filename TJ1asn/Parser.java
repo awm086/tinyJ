@@ -1,5 +1,5 @@
-// Jian Jun Yuan
-// CS316
+// Ali
+
 // TinyJ Assignment1
 
 package TJ1asn;

@@ -1,4 +1,4 @@
-//Jian Jun Yuan
+//Ali
 package TJasn.virtualMachine;
 
 import static TJasn.virtualMachine.CodeInterpreter.*;

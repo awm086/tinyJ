@@ -1,4 +1,4 @@
-//Jian Jun Yuan
+//Ali
 package TJasn.virtualMachine;
 
 public class WRITELNOPinstr extends ZeroOperandInstruction {

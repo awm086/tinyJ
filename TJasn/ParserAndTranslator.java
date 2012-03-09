@@ -1,4 +1,4 @@
-//Jian Jun Yuan
+//Ali
 //CS323
 //TinyJ Assignment 2
 package TJasn;
